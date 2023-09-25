@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Kotlin, Project Management, & Node JS
 
-- 💬 Ask me about my previous projects and working experience.
+- 💬 Ask me about my previous projects, working experience, educational background, and my skills.
 
 - 📫 How to reach me **elaeth.jonah@gmail.com**
 
