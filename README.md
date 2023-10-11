@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Music Mixer Capstone Project
+- 🔭 I’m currently working on Music Mixer Capstone Project (via SongCanvas)
 
 - 🌱 I’m currently learning Kotlin, Project Management, & Node JS
 
