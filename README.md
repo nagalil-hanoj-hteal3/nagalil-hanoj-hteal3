@@ -6,9 +6,9 @@
 </p>
 
 
-- 🔭 I’m currently working on Music Mixer Capstone Project (via SongCanvas)
+- 🔭 I’m currently working on Music Mixer Capstone Project (via SongCanvas), CrossConnect
 
-- 🌱 I’m currently learning Kotlin, Project Management, & Node JS
+- 🌱 I’m currently learning Project Management, Node JS, and React
 
 - 💬 Ask me about my previous projects, working experience, educational background, and my skills.
 
