@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SongCanvas & Course Connect**
 
-- 🌱 I’m currently learning **Project Management, React, & Node JS**
+- 🌱 I’m currently learning **Project Management, React, Computer Security, Intelligent Systems, Node JS, Networking, AI, ML & D&S**
 
 - 💬 Ask me about **my previous projects and working experience.**
 
