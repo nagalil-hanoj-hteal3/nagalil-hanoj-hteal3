@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagalil-hanoj-hteal3" alt="nagalil-hanoj-hteal3" /></a> </p>
 
-- 🔭 I’m currently working on **SongCanvas & Course Connect**
+- 🔭 I’m currently working on **SongCanvas**
 
 - 🌱 I’m currently learning **Project Management, React, Computer Security, Intelligent Systems, Node JS, Networking, AI, ML & D&S**
 
