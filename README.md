@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">Currently a fourth year software engineering student at CSUSM</h3>
+<h3 align="center">CSUSM Alumni | Software Engineering graduate at CSUSM</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nagalil-hanoj-hteal3&label=View%20%20Counter&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
